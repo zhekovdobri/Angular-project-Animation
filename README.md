@@ -1,6 +1,6 @@
 <img align="justify" alt="chart" width="950px" src="https://github.com/zhekovdobri/zhekovdobri/blob/0615a655bacf30bec3458dbc6cf28de142ff89da/CSS3Animation_GitHub_GIF_1200px.gif">
 
-# CSS3_Animation
+# Angular-project-Animation
 
 #### By: Dobri Zhekov
 
@@ -94,6 +94,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## License
 
-Alexandragloss_Homepage_Business project is licensed under the GNU GPL 3 license.
+
+Angular-project-Animation is licensed under the GNU GPL 3 license.
 
 <sub><sup>Copiright © 2016-2021 Dobri Zhekov All Rights Reserved</sup></sub>
