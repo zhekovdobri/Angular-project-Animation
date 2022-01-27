@@ -4,9 +4,7 @@
 
 #### By: Dobri Zhekov
 
-#### HTML5 and CSS3 animation.
-
-#### [<ins>Check the entire project here</ins>](https://zhekovdobri.github.io/CSS3_Animation/)
+#### [<ins>Check the entire project here</ins>](https://zhekovdobri.github.io/Angular-project-Animation/)
 
 ## Technologies Used
 
@@ -15,11 +13,14 @@
 </div>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <div class=pull-right>
-<img align="right" alt="chart" height="200px" src="https://github.com/zhekovdobri/CSS3_Animation/blob/252edfdd3f3908fe0ec8dc474053b6d72692c9b1/assets/images/CSS_Animation_language_chart.png">
+<img align="right" alt="chart" height="200px" src="https://github.com/zhekovdobri/Angular-project-Animation/blob/main/src/assets/images/Birds_chart_diagram.png">
 </div>
 
-* _HTML_
+* _TypeScript_
 * _CSS_
+* _JavaScript_
+* _HTML_
+
 
 <br />
 
@@ -42,7 +43,7 @@ This project animation was created with CSS3 and Angular. CSS3 animations make i
 </div>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <div class=pull-right>
-<img align="right" alt="chart" height="200px" src="https://github.com/zhekovdobri/Angular-project-Animation/blob/13623e56193965cc9087844ff371f984af0c11ee/src/assets/images/Directory_structure2-removebg-preview.png">
+<img align="right" alt="chart" height="100px" src="https://github.com/zhekovdobri/Angular-project-Animation/blob/13623e56193965cc9087844ff371f984af0c11ee/src/assets/images/Directory_structure2-removebg-preview.png">
 </div>
 
 ## Directory structure:
@@ -63,18 +64,6 @@ This project animation was created with CSS3 and Angular. CSS3 animations make i
 * **Clone over SSH**<br>
   $ git clone (ssh://..)
 
-## Known Bugs
-
-* No bugs
-
-## License
-
-Alexandragloss_Homepage_Business project is licensed under the GNU GPL 3 license.
-
-<sub><sup>Copiright © 2016-2021 Dobri Zhekov All Rights Reserved</sup></sub>
-
-
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 # AngularBirdsAnimation
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.3.
@@ -91,10 +80,6 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
 ## Running end-to-end tests
 
 Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
@@ -102,3 +87,13 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Known Bugs
+
+* No bugs
+
+## License
+
+Alexandragloss_Homepage_Business project is licensed under the GNU GPL 3 license.
+
+<sub><sup>Copiright © 2016-2021 Dobri Zhekov All Rights Reserved</sup></sub>
