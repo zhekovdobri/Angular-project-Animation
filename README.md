@@ -64,7 +64,7 @@ This project animation was created with CSS3 and Angular. CSS3 animations make i
 * **Clone over SSH**<br>
   $ git clone (ssh://..)
 
-# AngularBirdsAnimation
+# Angular-project-Animation
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.3.
 
